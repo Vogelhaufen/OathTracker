@@ -13,7 +13,7 @@ A lightweight, secret-value-safe **out-of-combat, single-target** Paladin Oath t
 ## Installation
 1. Extract the `OathTracker` folder into your `Interface/AddOns/` directory.
 2. Ensure the folder path is `Interface/AddOns/OathTracker/OathTracker.toc`, `OathTracker.lua`, and `README.md`.
-3. Restart WoW or type `/reload` in-game.
+3. Restart WoW or type `/reload ui` in-game.
 
 ## UI Controls & Slash Commands
 - **Header Buttons:**
