@@ -1,0 +1,9 @@
+## Interface: 16001
+## AllowLoadGameType: camelot, standard
+## Title: Oath Tracker
+## Notes: Out-of-combat single-target Oath Tracker for WoW Forever (16001) with compact center Oath of Light reapply icon, 20s pre-expiration warning, Reset button, Hide GUI button, and reliable sound alert.
+## Author: WoW Forever
+## Version: 3.2.0
+## SavedVariablesPerCharacter: OathTrackerDB
+
+OathTracker.lua
